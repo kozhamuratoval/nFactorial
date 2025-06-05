@@ -1,0 +1,16 @@
+Calculus Basics
+
+1. Definite and Indefinite Integrals
+A definite integral has specific bounds of integration and represents the area between the curve and the x-axis over a specific interval. An indefinite integral, also known as an antiderivative, represents a family of functions whose derivative is the integrand.
+
+2. Mean Value Theorem
+For a function f(x) that is continuous on [a,b] and differentiable on (a,b), there exists at least one point c in (a,b) where f'(c) equals the average rate of change of f over [a,b].
+
+3. Fundamental Theorem of Calculus
+The fundamental theorem of calculus states that differentiation and integration are inverse processes. It connects the concept of differentiating a function with the concept of integrating a function.
+
+4. Limits and Continuity
+A limit describes the value that a function approaches as the input approaches some value. Continuity requires that a function be defined at a point, the limit exists at that point, and the function value equals the limit.
+
+5. Derivatives
+The derivative represents the rate of change or slope of a function at any given point. It can be interpreted as the instantaneous rate of change of a function. 
